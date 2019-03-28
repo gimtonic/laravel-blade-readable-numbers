@@ -1,0 +1,15 @@
+{
+  "name": "gimtonic/laravel-blade-readable-numbers",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Антон Королев",
+          "email": "gimtonic@rambler.ru"
+      }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Gimtonic\\ReadableNumbers\\": ""
+    }
+  }
+}
